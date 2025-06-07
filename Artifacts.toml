@@ -1,0 +1,222 @@
+[[TDEP]]
+arch = "aarch64"
+git-tree-sha1 = "c38d3171fa464c7e34d46e2c87afe2ab8f52e979"
+lazy = true
+libgfortran_version = "5.0.0"
+mpi = "mpich"
+os = "macos"
+
+    [[TDEP.download]]
+    sha256 = "123314c08aca37527aa4d2a169955ccc564b5632975f496ed4f354f6fbe94285"
+    url = "https://github.com/JuliaBinaryWrappers/TDEP_jll.jl/releases/download/TDEP-v25.3.0+0/TDEP.v25.3.0.aarch64-apple-darwin-libgfortran5-mpi+mpich.tar.gz"
+[[TDEP]]
+arch = "aarch64"
+git-tree-sha1 = "d128506d846e77e65ec92bed4ae91f9e7a4b7e25"
+lazy = true
+libgfortran_version = "5.0.0"
+mpi = "mpitrampoline"
+os = "macos"
+
+    [[TDEP.download]]
+    sha256 = "ea236cc0f9ff789826ec12485e04b32d89fb1756058e728eb72e4595f5f1401d"
+    url = "https://github.com/JuliaBinaryWrappers/TDEP_jll.jl/releases/download/TDEP-v25.3.0+0/TDEP.v25.3.0.aarch64-apple-darwin-libgfortran5-mpi+mpitrampoline.tar.gz"
+[[TDEP]]
+arch = "aarch64"
+git-tree-sha1 = "d94c8fafc911350f93ee49a06ecbbc51a7953b07"
+lazy = true
+libgfortran_version = "5.0.0"
+mpi = "openmpi"
+os = "macos"
+
+    [[TDEP.download]]
+    sha256 = "23705f7ef748aa12141e8fe31637d16f482482232dd7169181161db790713a37"
+    url = "https://github.com/JuliaBinaryWrappers/TDEP_jll.jl/releases/download/TDEP-v25.3.0+0/TDEP.v25.3.0.aarch64-apple-darwin-libgfortran5-mpi+openmpi.tar.gz"
+[[TDEP]]
+arch = "aarch64"
+git-tree-sha1 = "d901649bd0d9f4d1ab150fbb4a07c340a6d095bf"
+lazy = true
+libc = "glibc"
+libgfortran_version = "5.0.0"
+mpi = "mpich"
+os = "linux"
+
+    [[TDEP.download]]
+    sha256 = "f06089bd020888ed48732585080078a002b2fef20d8706c48da458af427f79e8"
+    url = "https://github.com/JuliaBinaryWrappers/TDEP_jll.jl/releases/download/TDEP-v25.3.0+0/TDEP.v25.3.0.aarch64-linux-gnu-libgfortran5-mpi+mpich.tar.gz"
+[[TDEP]]
+arch = "aarch64"
+git-tree-sha1 = "6f12f72cca0ebdf6327589a1f9b9a0bafe04c70a"
+lazy = true
+libc = "glibc"
+libgfortran_version = "5.0.0"
+mpi = "mpitrampoline"
+os = "linux"
+
+    [[TDEP.download]]
+    sha256 = "bd30712de7e5054d0dc1b3375f2acc8d7a9ae794360d1d1288fbefe10f86652b"
+    url = "https://github.com/JuliaBinaryWrappers/TDEP_jll.jl/releases/download/TDEP-v25.3.0+0/TDEP.v25.3.0.aarch64-linux-gnu-libgfortran5-mpi+mpitrampoline.tar.gz"
+[[TDEP]]
+arch = "aarch64"
+git-tree-sha1 = "f162ffa3d86b32e8ca5c08edc60f162bd4a6a54c"
+lazy = true
+libc = "glibc"
+libgfortran_version = "5.0.0"
+mpi = "openmpi"
+os = "linux"
+
+    [[TDEP.download]]
+    sha256 = "1a4eb0e310ff455ce84f331d64a4069bddf5e17cfb5bea4578d8fb99bde200b0"
+    url = "https://github.com/JuliaBinaryWrappers/TDEP_jll.jl/releases/download/TDEP-v25.3.0+0/TDEP.v25.3.0.aarch64-linux-gnu-libgfortran5-mpi+openmpi.tar.gz"
+[[TDEP]]
+arch = "aarch64"
+git-tree-sha1 = "42739a5f088ff43621078b4b99afe72e5b39bf6f"
+lazy = true
+libc = "musl"
+libgfortran_version = "5.0.0"
+mpi = "mpich"
+os = "linux"
+
+    [[TDEP.download]]
+    sha256 = "fc6d87ec3b834c7c08fac6f8a10a28e7102be2764249f23ce97bad24925dcb29"
+    url = "https://github.com/JuliaBinaryWrappers/TDEP_jll.jl/releases/download/TDEP-v25.3.0+0/TDEP.v25.3.0.aarch64-linux-musl-libgfortran5-mpi+mpich.tar.gz"
+[[TDEP]]
+arch = "aarch64"
+git-tree-sha1 = "169b66ec8c3b9fa06b168cb664a8303e64f732ea"
+lazy = true
+libc = "musl"
+libgfortran_version = "5.0.0"
+mpi = "openmpi"
+os = "linux"
+
+    [[TDEP.download]]
+    sha256 = "7f4a394091ce4e70d6c52576e78f05b67c098a43a60a93f933ca1a5f718c191e"
+    url = "https://github.com/JuliaBinaryWrappers/TDEP_jll.jl/releases/download/TDEP-v25.3.0+0/TDEP.v25.3.0.aarch64-linux-musl-libgfortran5-mpi+openmpi.tar.gz"
+[[TDEP]]
+arch = "powerpc64le"
+git-tree-sha1 = "094cd277e8b518577fdcd5418814efa2a4cdf692"
+lazy = true
+libc = "glibc"
+libgfortran_version = "5.0.0"
+mpi = "mpich"
+os = "linux"
+
+    [[TDEP.download]]
+    sha256 = "66fd21e568c43cde8ffb368d06d2bfdcc5c1fa969eaf5f7241c2b486d67dfa8f"
+    url = "https://github.com/JuliaBinaryWrappers/TDEP_jll.jl/releases/download/TDEP-v25.3.0+0/TDEP.v25.3.0.powerpc64le-linux-gnu-libgfortran5-mpi+mpich.tar.gz"
+[[TDEP]]
+arch = "powerpc64le"
+git-tree-sha1 = "847cfa7648ca4daf7fc4d6d1561e270f471b37b0"
+lazy = true
+libc = "glibc"
+libgfortran_version = "5.0.0"
+mpi = "mpitrampoline"
+os = "linux"
+
+    [[TDEP.download]]
+    sha256 = "09c93965e6e17c0827e34528f25def024ac1b0fd1ebc1828e77cbf790d3e592f"
+    url = "https://github.com/JuliaBinaryWrappers/TDEP_jll.jl/releases/download/TDEP-v25.3.0+0/TDEP.v25.3.0.powerpc64le-linux-gnu-libgfortran5-mpi+mpitrampoline.tar.gz"
+[[TDEP]]
+arch = "powerpc64le"
+git-tree-sha1 = "4cb89a74533dcede1b473b4aeb5e2f8e9d52a216"
+lazy = true
+libc = "glibc"
+libgfortran_version = "5.0.0"
+mpi = "openmpi"
+os = "linux"
+
+    [[TDEP.download]]
+    sha256 = "6e4580dc6a00d17fb87b238e9f334d21cb6c2e8a64eaee245619d799ec7dc0c3"
+    url = "https://github.com/JuliaBinaryWrappers/TDEP_jll.jl/releases/download/TDEP-v25.3.0+0/TDEP.v25.3.0.powerpc64le-linux-gnu-libgfortran5-mpi+openmpi.tar.gz"
+[[TDEP]]
+arch = "x86_64"
+git-tree-sha1 = "d4e426007a6a99eb1f50b7f860bad47587c24986"
+lazy = true
+libgfortran_version = "5.0.0"
+mpi = "mpich"
+os = "macos"
+
+    [[TDEP.download]]
+    sha256 = "9154435ae2028da752604b6d2d1b6f62287b39d4797e676c0b3176cceab9da00"
+    url = "https://github.com/JuliaBinaryWrappers/TDEP_jll.jl/releases/download/TDEP-v25.3.0+0/TDEP.v25.3.0.x86_64-apple-darwin-libgfortran5-mpi+mpich.tar.gz"
+[[TDEP]]
+arch = "x86_64"
+git-tree-sha1 = "2cdb6bd3ac3b17cb018b27637d188747739cecbf"
+lazy = true
+libgfortran_version = "5.0.0"
+mpi = "mpitrampoline"
+os = "macos"
+
+    [[TDEP.download]]
+    sha256 = "4072dc2ff5de81a96ec14da6a3b8470d37a3b96fdf5f6666fa58ea154cf8c0cd"
+    url = "https://github.com/JuliaBinaryWrappers/TDEP_jll.jl/releases/download/TDEP-v25.3.0+0/TDEP.v25.3.0.x86_64-apple-darwin-libgfortran5-mpi+mpitrampoline.tar.gz"
+[[TDEP]]
+arch = "x86_64"
+git-tree-sha1 = "3aa0777d41526455bacec8e73087f570194bdfd1"
+lazy = true
+libgfortran_version = "5.0.0"
+mpi = "openmpi"
+os = "macos"
+
+    [[TDEP.download]]
+    sha256 = "c36402fb8fe81ff62ce237b6ce73cdbd53c4783ed9f2fe4c1c0cee915f45f4ae"
+    url = "https://github.com/JuliaBinaryWrappers/TDEP_jll.jl/releases/download/TDEP-v25.3.0+0/TDEP.v25.3.0.x86_64-apple-darwin-libgfortran5-mpi+openmpi.tar.gz"
+[[TDEP]]
+arch = "x86_64"
+git-tree-sha1 = "286c1504a965e2a5f052f4ac2e4f783e9d2828eb"
+lazy = true
+libc = "glibc"
+libgfortran_version = "5.0.0"
+mpi = "mpich"
+os = "linux"
+
+    [[TDEP.download]]
+    sha256 = "95d76ad1e53d299de7b0b9e7336759a6e27445366ef01c04d5755747810855b3"
+    url = "https://github.com/JuliaBinaryWrappers/TDEP_jll.jl/releases/download/TDEP-v25.3.0+0/TDEP.v25.3.0.x86_64-linux-gnu-libgfortran5-mpi+mpich.tar.gz"
+[[TDEP]]
+arch = "x86_64"
+git-tree-sha1 = "4bd66f000418b52b3bc187da58be69bb54a15406"
+lazy = true
+libc = "glibc"
+libgfortran_version = "5.0.0"
+mpi = "mpitrampoline"
+os = "linux"
+
+    [[TDEP.download]]
+    sha256 = "77c1e2bfecc13d83c255c30f5f30065379f75f884ce1c2b9c3068a0a3ac901cb"
+    url = "https://github.com/JuliaBinaryWrappers/TDEP_jll.jl/releases/download/TDEP-v25.3.0+0/TDEP.v25.3.0.x86_64-linux-gnu-libgfortran5-mpi+mpitrampoline.tar.gz"
+[[TDEP]]
+arch = "x86_64"
+git-tree-sha1 = "e871cd83062b70d35e1f72760d9da22de53c262c"
+lazy = true
+libc = "glibc"
+libgfortran_version = "5.0.0"
+mpi = "openmpi"
+os = "linux"
+
+    [[TDEP.download]]
+    sha256 = "a046b2bbbe02f5748655fefbcd5144353db559d4940094d25637ef367306bc6d"
+    url = "https://github.com/JuliaBinaryWrappers/TDEP_jll.jl/releases/download/TDEP-v25.3.0+0/TDEP.v25.3.0.x86_64-linux-gnu-libgfortran5-mpi+openmpi.tar.gz"
+[[TDEP]]
+arch = "x86_64"
+git-tree-sha1 = "bc7e479c9c0c10b63a03a34ed487a85b3ed4c2ee"
+lazy = true
+libc = "musl"
+libgfortran_version = "5.0.0"
+mpi = "mpich"
+os = "linux"
+
+    [[TDEP.download]]
+    sha256 = "f26cf666d7b48ddfc6ddf98abebe221805e0a16116c041a84af52b8722624e94"
+    url = "https://github.com/JuliaBinaryWrappers/TDEP_jll.jl/releases/download/TDEP-v25.3.0+0/TDEP.v25.3.0.x86_64-linux-musl-libgfortran5-mpi+mpich.tar.gz"
+[[TDEP]]
+arch = "x86_64"
+git-tree-sha1 = "c14bfe476a5df4ab67e61286554167edfd2cc267"
+lazy = true
+libc = "musl"
+libgfortran_version = "5.0.0"
+mpi = "openmpi"
+os = "linux"
+
+    [[TDEP.download]]
+    sha256 = "a259762d06d17edf8b1093fbbed5485bb4db5bfee3426479332d38d4a9e7b4fe"
+    url = "https://github.com/JuliaBinaryWrappers/TDEP_jll.jl/releases/download/TDEP-v25.3.0+0/TDEP.v25.3.0.x86_64-linux-musl-libgfortran5-mpi+openmpi.tar.gz"
